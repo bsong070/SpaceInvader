@@ -1,0 +1,10 @@
+x=2
+x=x+2
+print(x)
+
+y = 440*12
+print(y)
+
+z=y/1000
+print(z)
+
